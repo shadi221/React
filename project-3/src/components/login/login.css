@@ -1,0 +1,49 @@
+.Login {
+    position: relative;
+    left: 500px;
+    width: 550px;
+	max-width:525px;
+	min-height:670px;
+    position:relative;
+    box-shadow:inset 0 0 0 1000px rgba(0, 0, 0, 0.2) !important;
+    background:url(https://raw.githubusercontent.com/khadkamhn/day-01-login-form/master/img/bg.jpg) no-repeat center;
+    
+}
+
+.loginForm {
+    width: 500px;
+    position: relative;
+    left: 120px;
+    height: 100%;
+}
+
+body{
+	color:#6a6f8c;
+	background:#c8c8c8;
+	font:600 16px/18px 'Open Sans',sans-serif;
+}
+
+.form-control{
+    border-radius: 25px;
+    border: 2px solid #609;
+    padding: 20px; 
+    width: 200px;
+    height: 15px;  
+}
+
+label{
+    width:100%;
+    display:block;
+    color: #000;
+}
+.btn{
+    border-radius: 25px;
+    border: 2px solid #609;
+    width: 200px;
+    height: 40px;
+    color: white;
+}
+
+.text-muted{
+    color: wheat!important;
+}

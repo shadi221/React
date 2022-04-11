@@ -1,0 +1,25 @@
+.headerContainer {
+    background-color: grey;
+    padding: 20px;
+    margin-left: 50px;
+    width: 90%;
+    height: 300px;
+    text-align: center !important;
+    position: relative;
+    left: 50px;
+    color: black;
+    background-image: url("http://webmadewell.com/wp-content/uploads/2018/01/img-bg-sample-parallax-header.jpg");
+}
+
+.title {
+    position: relative;
+    top: 120px;
+    right: 350px;
+    font-size: 50px;
+}
+
+.logo{
+    position: relative;
+    top: 180px;
+    left: 550px;
+}

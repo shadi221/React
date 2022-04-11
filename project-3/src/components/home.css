@@ -1,0 +1,15 @@
+.container{
+    position: relative;
+    left: 250px;
+}
+
+.name{
+    font-size: 25px;
+    position: relative;
+    left: 50px;
+}
+
+.editVac{
+    position: relative;
+    left: 150px;
+}
